@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+body{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#num-comentarios{
+    padding: 10px;
+    border-radius: 50%;
+    border:1px solid blue;
+    color:red;
+}
